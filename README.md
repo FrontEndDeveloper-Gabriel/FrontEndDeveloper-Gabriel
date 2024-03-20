@@ -7,4 +7,4 @@
 ㅤㅤ+ 📜​​​ JS; <br>
 - 🐍​ Códigos em Python. <br>
 ㅤㅤ+ ⚙️​​ Automações de Tarefas; <br>
-ㅤㅤ+ ​👨‍💻 Páginas Back-end Interativas <br>
+ㅤㅤ+ ​👨‍💻 Páginas Back-end Interativas; <br>
