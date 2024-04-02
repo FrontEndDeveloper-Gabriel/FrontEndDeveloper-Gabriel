@@ -1,6 +1,4 @@
-<h1><img src="![HELLO WORD!](https://github.com/FullStackDeveloper-Gabriel/FullStackDeveloper-Gabriel/assets/123027022/a275dbba-dfee-401a-a734-2620b6ef1f31)
-" align="center" alt="HELLO WORLD" height="200" width="400"></h1>
-<h2>Seja muito bem vindo(a) ao meu perfil!</h2>
+<h1>![HELLO WORD!](https://github.com/FullStackDeveloper-Gabriel/FullStackDeveloper-Gabriel/assets/123027022/a83f0f13-f94b-458b-a5a3-29eaf8668276) </h1>
 <h3>Por aqui estarei desenvolvendo e publicando novos projetos de programação! <br>
 ### Projetos como: <br>
 - 💻​🌐​ Websites; <br>
