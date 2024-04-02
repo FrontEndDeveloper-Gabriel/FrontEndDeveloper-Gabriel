@@ -1,13 +1,15 @@
 <h1>Olá Mundo!</h1>
-<h2>Me chamo Gabriel e por aqui você encontrará projetos pessoais que estarei desenvolvendo! ​​​🧑‍💻​</h2>
-<h3>Projetos como:</h3>
+<h2>Me chamo Gabriel e seja muito bem vindo(a) ao meu perfil! ​​​🧑‍💻​</h2>
+<h3>Aqui estarei desenvolvendo e publicando novos projetos de programação!
+Projetos como:
 - 💻​🌐​ Websites; <br>
-ㅤㅤ+ 📄​​ HTML; <br>
-ㅤㅤ+ 🎨​​ CSS; <br>
-ㅤㅤ+ 📜​​​ JS; <br>
+ㅤㅤ+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">​​ HTML; <br>
+ㅤㅤ+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">​​ CSS; <br>
+ㅤㅤ+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">📜​​​ JS; <br>
 - 🐍​ Códigos em Python. <br>
 ㅤㅤ+ ⚙️​​ Automações de Tarefas; <br>
 ㅤㅤ+ ​👨‍💻 Páginas Back-end Interativas; <br>
+</h3>
 
 ### Para mais atualizações de projetos novos!
 <div>
