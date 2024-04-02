@@ -1,4 +1,7 @@
-<h3 align="center"><img align="center" alt="HELLO WORLD" height="200" width="400" src="/HELLO WORLD.gif">Por aqui estarei desenvolvendo e publicando novos projetos de programação!​​</h3>
+<h2 align="center"><img align="center" alt="HELLO WORLD" height="200" width="400" src="/HELLO WORLD.gif"> <br>
+    Por aqui estarei desenvolvendo e publicando novos projetos de programação!​​
+</h2>
+
 ### Projetos como: <br>
 - 💻​🌐​ Websites; <br>
 ㅤㅤ+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">​​ HTML; <br>
