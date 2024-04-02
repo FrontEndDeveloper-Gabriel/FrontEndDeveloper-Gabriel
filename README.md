@@ -1,6 +1,6 @@
-<h2 align="center"><img align="center" alt="HELLO WORLD" height="200" width="400" src="/HELLO WORLD.gif"> <br>
+<p align="center"><img align="center" alt="HELLO WORLD" height="200" width="400" src="/HELLO WORLD.gif"> <br>
     Por aqui estarei desenvolvendo e publicando novos projetos de programação!​​
-</h2>
+</p>
 
 ### Projetos como: <br>
 - 💻​🌐​ Websites; <br>
