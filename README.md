@@ -1,4 +1,5 @@
-<h1><img src="https://www.canva.com/design/DAGBRd_CvYM/xXOVuBCVfCDF7d-gLk2HWw/edit?utm_content=DAGBRd_CvYM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" align="center" alt="HELLO WORLD" height="200" width="400"></h1>
+<h1><img src="![HELLO WORD!](https://github.com/FullStackDeveloper-Gabriel/FullStackDeveloper-Gabriel/assets/123027022/a275dbba-dfee-401a-a734-2620b6ef1f31)
+" align="center" alt="HELLO WORLD" height="200" width="400"></h1>
 <h2>Seja muito bem vindo(a) ao meu perfil!</h2>
 <h3>Por aqui estarei desenvolvendo e publicando novos projetos de programação! <br>
 ### Projetos como: <br>
