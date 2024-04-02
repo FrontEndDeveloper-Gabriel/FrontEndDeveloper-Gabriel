@@ -1,7 +1,7 @@
 <h1>Olá Mundo!</h1>
-<h2>Me chamo Gabriel e seja muito bem vindo(a) ao meu perfil! ​​​🧑‍💻​</h2>
+<h2>Me chamo Gabriel e seja muito bem vindo(a) ao meu perfil! ​​​<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />​</h2>
 <h3>Aqui estarei desenvolvendo e publicando novos projetos de programação! <br>
-Projetos como:
+Projetos como: <br>
 - 💻​🌐​ Websites; <br>
 ㅤㅤ+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">​​ HTML; <br>
 ㅤㅤ+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">​​ CSS; <br>
