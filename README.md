@@ -1,4 +1,4 @@
-<h1><img align="center" alt="HELLO WORLD" height="30" width="40" src="(https://github.com/FullStackDeveloper-Gabriel/FullStackDeveloper-Gabriel/assets/123027022/bc68a148-8863-4c9c-8518-db0fe2e00c3a)">​​</h1>
+<h1><img align="center" alt="HELLO WORLD" height="30" width="40" src="/HELLO WORLD.gif">​​</h1>
 <h3>Por aqui estarei desenvolvendo e publicando novos projetos de programação! <br>
 ### Projetos como: <br>
 - 💻​🌐​ Websites; <br>
