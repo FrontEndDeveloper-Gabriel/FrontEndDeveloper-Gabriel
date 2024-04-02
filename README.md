@@ -1,5 +1,5 @@
-<h1>Olá Mundo!</h1>
-<h2>Me chamo Gabriel e seja muito bem vindo(a) ao meu perfil! ​​​<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />​</h2>
+<h1><img align="center" alt="HELLO WORLD" height="30" width="40" src="./hello-world"</h1>
+<h2>Me chamo Gabriel e seja muito bem vindo(a) ao meu perfil!​</h2>
 <h3>Aqui estarei desenvolvendo e publicando novos projetos de programação! <br>
 Projetos como: <br>
 - 💻​🌐​ Websites; <br>
