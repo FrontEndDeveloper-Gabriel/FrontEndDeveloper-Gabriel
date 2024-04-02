@@ -1,6 +1,6 @@
 <h1><img src="https://www.shutterstock.com/shutterstock/videos/1099061801/thumb/8.jpg?ip=x480" align="center" alt="HELLO WORLD" height="200" width="400"></h1>
-<h2>seja muito bem vindo(a) ao meu perfil!</h2>
-<h3>Aqui estarei desenvolvendo e publicando novos projetos de programação! <br>
+<h2>Seja muito bem vindo(a) ao meu perfil!</h2>
+<h3>Por aqui estarei desenvolvendo e publicando novos projetos de programação! <br>
 ### Projetos como: <br>
 - 💻​🌐​ Websites; <br>
 ㅤㅤ+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">​​ HTML; <br>
