@@ -10,8 +10,8 @@
 ㅤㅤ-> 🏍🚔 <a href="https://fullstackdeveloper-gabriel.github.io/projeto-gta/">Uma página do game GTA V e Online</a> <br>
 ㅤㅤ-> 🏴‍☠️🌊 <a href="https://fullstackdeveloper-gabriel.github.io/projeto-onepiece/">Uma página do Anime e Manga One Piece</a> <br>
  ● Python: <br>
-ㅤㅤ-> 🛒​​ Um sistema que simula uma loja de informática E-Commerce; <br>
-ㅤㅤ-> ​🏦 Um sistema que simula um banco digital; <br>
+ㅤㅤ-> 🛒​​ Uma Loja de Informática E-Commerce; <br>
+ㅤㅤ-> ​🏦 Um Banco Digital; <br>
 </p>
 
 ### Linguagens Utilizadas
