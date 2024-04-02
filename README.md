@@ -1,4 +1,4 @@
-<h1><img align="center" alt="HELLO WORLD" height="200" width="400" src="/HELLO WORLD.gif" background-color: red>​​</h1>
+<h1><img align="center" alt="HELLO WORLD" height="200" width="400" src="/HELLO WORLD.gif">​​</h1>
 <h3>Por aqui estarei desenvolvendo e publicando novos projetos de programação! <br>
 ### Projetos como: <br>
 - 💻​🌐​ Websites; <br>
