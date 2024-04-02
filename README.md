@@ -1,17 +1,19 @@
 <p align="center"><img align="center" alt="HELLO WORLD" height="200" width="400" src="/HELLO WORLD.gif"> </p>
 
 ### Sobre mim:
-<p>Me chamo Gabriel e pretendo seguir carreira como Desenvolvedor Web Fullstack! 👨‍💻</p>
-- 💻​🌐​ Websites; <br>
+<p>
+ Me chamo Gabriel e pretendo seguir carreira como Desenvolvedor Web Fullstack 👨‍💻 <br>
+ Por aqui estarei desenvolvendo e publicando meus projetos novos de programação!
+
+ ### Projetos como:
+ - 💻​🌐​ Websites; <br>
 ㅤㅤ+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">​​ HTML; <br>
 ㅤㅤ+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">​​ CSS; <br>
 ㅤㅤ+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">​​​ JS; <br>
 - 🐍​ Códigos em Python. <br>
 ㅤㅤ+ ⚙️​​ Automações de Tarefas; <br>
 ㅤㅤ+ ​👨‍💻 Páginas Back-end Interativas; <br>
-</h3>
-
-
+</p>
 
 
 ### Meus Links:
