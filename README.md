@@ -1,4 +1,4 @@
-<h1><img src="https://www.shutterstock.com/shutterstock/videos/1099061801/thumb/8.jpg?ip=x480" align="center" alt="HELLO WORLD" height="30" width="40"></h1>
+<h1><img src="https://www.shutterstock.com/shutterstock/videos/1099061801/thumb/8.jpg?ip=x480" align="center" alt="HELLO WORLD" height="200" width="200"></h1>
 <h2>Me chamo Gabriel e seja muito bem vindo(a) ao meu perfil!</h2>
 <h3>Aqui estarei desenvolvendo e publicando novos projetos de programação! <br>
 ### Projetos como: <br>
