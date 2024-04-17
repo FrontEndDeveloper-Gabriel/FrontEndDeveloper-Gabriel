@@ -12,6 +12,7 @@
  ● Python: <br>
 ㅤㅤ-> 🛒​​ Uma Loja de Informática E-Commerce; <br>
 ㅤㅤ-> ​🏦 Um Banco Digital; <br>
+ㅤㅤ-> ​📐 Um Aplicativo para medir o ICM do usuário; <br>
 </p>
 
 ### Linguagens Utilizadas
