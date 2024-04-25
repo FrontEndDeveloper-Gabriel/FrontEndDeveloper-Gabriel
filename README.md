@@ -7,7 +7,7 @@
 
  ### Projetos Desenvolvidos ✅
  ● Websites: <br>
- ㅤ -> 🎮👨‍💻 <a href="https://frontenddeveloper-gabriel.github.io/meu-portfolio/">Meu Portfólio Pessoal</a> <br>
+ㅤㅤ-> 🎮👨‍💻 <a href="https://frontenddeveloper-gabriel.github.io/meu-portfolio/">Meu Portfólio Pessoal</a> <br>
 ㅤㅤ-> 🏍🚔 <a href="https://frontenddeveloper-gabriel.github.io/projeto-gta/">Uma página do game GTA V e Online</a> <br>
 ㅤㅤ-> 🏴‍☠️🌊 <a href="https://frontenddeveloper-gabriel.github.io/projeto-onepiece/">Uma página do Anime e Manga One Piece</a> <br>
  ● Python: <br>
