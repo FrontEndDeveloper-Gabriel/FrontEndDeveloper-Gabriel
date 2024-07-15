@@ -10,11 +10,12 @@
 ㅤㅤ-> 🎮👨‍💻 <a href="https://frontenddeveloper-gabriel.github.io/meu-portfolio/">Meu Portfólio Pessoal</a> <br>
 ㅤㅤ-> 🏍🚔 <a href="https://frontenddeveloper-gabriel.github.io/projeto-gta/">Uma página do game GTA V e Online</a> <br>
 ㅤㅤ-> 🏴‍☠️🌊 <a href="https://frontenddeveloper-gabriel.github.io/projeto-onepiece/">Uma página do Anime e Manga One Piece</a> <br>
+ㅤㅤ-> 🏎🚀 <a href="https://frontenddeveloper-gabriel.github.io/projeto-onepiece/">Uma página da Tesla</a> <br>
  ● Python: <br>
 ㅤㅤ-> 🛒​​ Uma Loja de Informática E-Commerce; <br>
 ㅤㅤ-> ​🏦 Um Banco Digital; <br>
 ㅤㅤ-> ​📐 Um Aplicativo para medir o ICM do usuário; <br>
- ● OutSystems: <br>
+ ● Low-Code: <br>
 ㅤㅤ-> 🆕​​ Um Sistema de Cadastramento; <br>
 </p>
 
