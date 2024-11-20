@@ -2,7 +2,7 @@
 
 ### Sobre mim:
 <p>
- Me chamo Gabriel e pretendo seguir carreira como Desenvolvedor Web Fullstack 👨‍💻 <br>
+ Me chamo Gabriel e pretendo seguir carreira como Desenvolvedor Front-End 👨‍💻 <br>
  Por aqui estarei desenvolvendo e publicando meus projetos novos de programação!
 
  ### Projetos Desenvolvidos ✅
