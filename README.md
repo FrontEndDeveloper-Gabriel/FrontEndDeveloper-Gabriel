@@ -15,7 +15,7 @@
 ㅤㅤ-> 🛒​​ <a href="https://github.com/FrontEndDeveloper-Gabriel/e-commerce-digital">Uma Loja de Informática E-Commerce</a> <br>
 ㅤㅤ-> ​🏛 <a href="https://github.com/FrontEndDeveloper-Gabriel/banco-digital">Um Banco Digital</a> <br>
 ㅤㅤ-> ​📐 <a href="https://github.com/FrontEndDeveloper-Gabriel/aplicativo-imc">Um Aplicativo para medir o IMC do usuário</a> <br>
-ㅤㅤ-> ​📃 Um Sistema de Geração de Certificados; <br>
+ㅤㅤ-> ​📃 Um Sistema de Geração de Certificados <br>
 </p>
 
 ### Linguagens Utilizadas
