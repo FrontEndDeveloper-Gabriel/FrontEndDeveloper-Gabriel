@@ -12,9 +12,10 @@
 ㅤㅤ-> 🏴‍☠️🌊 <a href="https://frontenddeveloper-gabriel.github.io/projeto-onepiece/">Uma página do Anime e Manga One Piece</a> <br>
 ㅤㅤ-> 🏎🚀 <a href="https://frontenddeveloper-gabriel.github.io/projeto-onepiece/">Uma página da Tesla</a> <br>
  ● Python: <br>
-ㅤㅤ-> 🛒​​ Uma Loja de Informática E-Commerce; <br>
-ㅤㅤ-> ​🏦 Um Banco Digital; <br>
-ㅤㅤ-> ​📐 Um Aplicativo para medir o ICM do usuário; <br>
+ㅤㅤ-> 🛒​​ <a href="https://github.com/FrontEndDeveloper-Gabriel/e-commerce-digital">Uma Loja de Informática E-Commerce</a> <br>
+ㅤㅤ-> ​🏛 <a href="https://github.com/FrontEndDeveloper-Gabriel/banco-digital">Um Banco Digital</a> <br>
+ㅤㅤ-> ​📐 <a href="https://github.com/FrontEndDeveloper-Gabriel/aplicativo-imc">Um Aplicativo para medir o IMC do usuário</a> <br>
+ㅤㅤ-> ​📃 Um Sistema de Geração de Certificados; <br>
 </p>
 
 ### Linguagens Utilizadas
