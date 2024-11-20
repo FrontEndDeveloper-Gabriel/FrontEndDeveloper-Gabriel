@@ -15,8 +15,6 @@
 ㅤㅤ-> 🛒​​ Uma Loja de Informática E-Commerce; <br>
 ㅤㅤ-> ​🏦 Um Banco Digital; <br>
 ㅤㅤ-> ​📐 Um Aplicativo para medir o ICM do usuário; <br>
- ● Low-Code: <br>
-ㅤㅤ-> 🆕​​ Um Sistema de Cadastramento; <br>
 </p>
 
 ### Linguagens Utilizadas
