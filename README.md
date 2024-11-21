@@ -10,7 +10,7 @@
 ㅤㅤ-> 🎮👨‍💻 <a href="https://frontenddeveloper-gabriel.github.io/meu-portfolio/">Meu Portfólio Pessoal</a> <br>
 ㅤㅤ-> 🏍🚔 <a href="https://frontenddeveloper-gabriel.github.io/projeto-gta/">Uma página do GTA V </a> <br>
 ㅤㅤ-> 🏴‍☠️🌊 <a href="https://frontenddeveloper-gabriel.github.io/projeto-onepiece/">Uma página do One Piece</a> <br>
-ㅤㅤ-> 🏎🚀 <a href="https://frontenddeveloper-gabriel.github.io/projeto-onepiece/">Uma página da Tesla</a> <br>
+ㅤㅤ-> 🏎🚀 <a href="https://frontenddeveloper-gabriel.github.io/projeto-tesla/">Uma página da Tesla</a> <br>
  ● Python: <br>
 ㅤㅤ-> 🛒​​ <a href="https://github.com/FrontEndDeveloper-Gabriel/e-commerce-digital">Uma Loja de Informática E-Commerce</a> <br>
 ㅤㅤ-> ​🏛 <a href="https://github.com/FrontEndDeveloper-Gabriel/banco-digital">Um Banco Digital</a> <br>
