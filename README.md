@@ -7,15 +7,15 @@
 
  ### Projetos Desenvolvidos ✅
  ● Websites: <br>
-ㅤㅤ-> 🎮👨‍💻 <a href="https://frontenddeveloper-gabriel.github.io/meu-portfolio/">Meu Portfólio Pessoal</a> <br>
-ㅤㅤ-> 🏍🚔 <a href="https://frontenddeveloper-gabriel.github.io/projeto-gta/">Uma página do GTA V </a> <br>
-ㅤㅤ-> 🏴‍☠️🌊 <a href="https://frontenddeveloper-gabriel.github.io/projeto-onepiece/">Uma página do One Piece</a> <br>
-ㅤㅤ-> 🏎🚀 <a href="https://frontenddeveloper-gabriel.github.io/projeto-tesla/">Uma página da Tesla</a> <br>
+ㅤㅤ-> 🎮👨‍💻 <a href="https://frontenddeveloper-gabriel.github.io/meu-portfolio/" target="_blank">Meu Portfólio Pessoal</a> <br>
+ㅤㅤ-> 🏍🚔 <a href="https://frontenddeveloper-gabriel.github.io/projeto-gta/" target="_blank">Uma página do GTA V </a> <br>
+ㅤㅤ-> 🏴‍☠️🌊 <a href="https://frontenddeveloper-gabriel.github.io/projeto-onepiece/" target="_blank">Uma página do One Piece</a> <br>
+ㅤㅤ-> 🏎🚀 <a href="https://frontenddeveloper-gabriel.github.io/projeto-tesla/" target="_blank">Uma página da Tesla</a> <br>
  ● Python: <br>
-ㅤㅤ-> 🛒​​ <a href="https://github.com/FrontEndDeveloper-Gabriel/e-commerce-digital">Uma Loja de Informática E-Commerce</a> <br>
-ㅤㅤ-> ​🏛 <a href="https://github.com/FrontEndDeveloper-Gabriel/banco-digital">Um Banco Digital</a> <br>
-ㅤㅤ-> ​📐 <a href="https://github.com/FrontEndDeveloper-Gabriel/aplicativo-imc">Um Aplicativo para medir o IMC do usuário</a> <br>
-ㅤㅤ-> ​📃 <a href="https://github.com/FrontEndDeveloper-Gabriel/gerador-de-certificados">Um Sistema de Geração de Certificados</a> <br>
+ㅤㅤ-> 🛒​​ <a href="https://github.com/FrontEndDeveloper-Gabriel/e-commerce-digital" target="_blank">Uma Loja de Informática E-Commerce</a> <br>
+ㅤㅤ-> ​🏛 <a href="https://github.com/FrontEndDeveloper-Gabriel/banco-digital" target="_blank">Um Banco Digital</a> <br>
+ㅤㅤ-> ​📐 <a href="https://github.com/FrontEndDeveloper-Gabriel/aplicativo-imc" target="_blank">Um Aplicativo para medir o IMC do usuário</a> <br>
+ㅤㅤ-> ​📃 <a href="https://github.com/FrontEndDeveloper-Gabriel/gerador-de-certificados" target="_blank">Um Sistema de Geração de Certificados</a> <br>
 </p>
 
 ### Linguagens Utilizadas
