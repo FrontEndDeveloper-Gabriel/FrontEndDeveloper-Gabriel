@@ -21,8 +21,8 @@
 ### Linguagens Utilizadas
 ● <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">​​ HTML; <br>
 ● <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">​​ CSS; <br>
-● <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">​​​ JavaScript; <br>
-● <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">​​​ Python; <br>
+● <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">​​​ JavaScript; <br>
+● <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">​​​ Python; <br>
 
 ### Meus Links
 <div> 
@@ -31,4 +31,4 @@
   <a href="https://www.linkedin.com/in/gabrielr-silva2024" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5ac192c2-ec14-4530-9d01-2357c5fd8b88" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5ac192c2-ec14-4530-9d01-2357c5fd8b88" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>">
