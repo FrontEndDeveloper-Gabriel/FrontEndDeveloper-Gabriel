@@ -25,7 +25,7 @@ Here, I will be developing and publishing my new programming projects!
 
 <h3> </h3>
 
-###🚀✅ DEVELOPED PROJECTS
+### 🚀✅ DEVELOPED PROJECTS
  ● HTML | CSS | JavaScript : <br>
 ㅤㅤ-> 🎮👨‍💻 <a href = "https://frontenddeveloper-gabriel.github.io/meu-portfolio/" target="_blank">Meu Portfólio Pessoal</a> <br>
 ㅤㅤ-> 🏍🚔 <a href = "https://frontenddeveloper-gabriel.github.io/projeto-gta/" target="_blank">Uma página do GTA V </a> <br>
