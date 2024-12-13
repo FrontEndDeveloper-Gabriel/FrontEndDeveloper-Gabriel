@@ -10,7 +10,7 @@
 
 <br>
 
-<h3>👩‍💻 ABOUT ME...</h3>
+<h2>👩‍💻 ABOUT ME...</h2>
 <p align = left>
 My name is Gabriel and I intend to pursue a career as a Front-End Developer. <br>
 Here, I will be developing and publishing my new programming projects!
@@ -18,7 +18,7 @@ Here, I will be developing and publishing my new programming projects!
 
 <br>
 
-<h3>💬🛠 I CODE WITH...</h3>
+<h2>💬🛠 I CODE WITH...</h2>
 <div align="left">
 <img align = "center" alt = "HTML" height = "40" width="50" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">​​
 <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">​​
@@ -28,7 +28,7 @@ Here, I will be developing and publishing my new programming projects!
 
 <br>
 
-<h3>🚀✅ DEVELOPED PROJECTS</h3>
+<h2>🚀✅ DEVELOPED PROJECTS</h2>
  ● HTML | CSS | JavaScript : <br>
 ㅤㅤ-> 🎮👨‍💻 <a href = "https://frontenddeveloper-gabriel.github.io/meu-portfolio/" target="_blank">Meu Portfólio Pessoal</a> <br>
 ㅤㅤ-> 🏍🚔 <a href = "https://frontenddeveloper-gabriel.github.io/projeto-gta/" target="_blank">Uma página do GTA V </a> <br>
