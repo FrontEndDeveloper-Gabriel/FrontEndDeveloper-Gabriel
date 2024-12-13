@@ -49,6 +49,6 @@
 
 <h2> BADGES</h2>
 <div align="left">
-  <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_python_and_programming_46.png">
-  <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_python_and_programming_46.png">
+  <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_python_and_programming_46.png" width = "100" height = "100">
+  <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_python_and_programming_46.png" width = "100" height = "100">
 </div>
