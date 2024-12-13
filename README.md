@@ -2,9 +2,9 @@
 
 ###
 
-### SOBRE MIM:
+<h1 align = "center">👨‍💻 SOBRE MIM: </h1>
 <p>
- Me chamo Gabriel e pretendo seguir carreira como Desenvolvedor Front-End 👨‍💻 <br>
+ Me chamo Gabriel e pretendo seguir carreira como Desenvolvedor Front-End <br>
  Por aqui estarei desenvolvendo e publicando meus projetos novos de programação!
 
  ### PROJETOS DESENVOLVIDOS ✅
