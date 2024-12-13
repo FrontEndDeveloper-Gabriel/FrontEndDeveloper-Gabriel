@@ -32,12 +32,12 @@ Here, I will be developing and publishing my new programming projects!
 <br>
 
 <h2>🚀✅ DEVELOPED PROJECTS</h2>
- ● HTML | CSS | JavaScript : <br>
+<h3> ● HTML | CSS | JavaScript: </h3> <br>
 ㅤㅤ-> 🎮👨‍💻 <a href = "https://frontenddeveloper-gabriel.github.io/meu-portfolio/" target="_blank">Meu Portfólio Pessoal</a> <br>
 ㅤㅤ-> 🏍🚔 <a href = "https://frontenddeveloper-gabriel.github.io/projeto-gta/" target="_blank">Uma página do GTA V </a> <br>
 ㅤㅤ-> 🏴‍☠️🌊 <a href = "https://frontenddeveloper-gabriel.github.io/projeto-onepiece/" target="_blank">Uma página do One Piece</a> <br>
 ㅤㅤ-> 🏎🚀 <a href = "https://frontenddeveloper-gabriel.github.io/projeto-tesla/" target="_blank">Uma página da Tesla</a> <br>
- ● Python: <br>
+<h3> ● Python: </h3> <br>
 ㅤㅤ-> 🛒​​ <a href = "https://github.com/FrontEndDeveloper-Gabriel/e-commerce-digital" target="_blank">Uma Loja de Informática E-Commerce</a> <br>
 ㅤㅤ-> ​🏛 <a href = "https://github.com/FrontEndDeveloper-Gabriel/banco-digital" target="_blank">Um Banco Digital</a> <br>
 ㅤㅤ-> ​📐 <a href = "https://github.com/FrontEndDeveloper-Gabriel/aplicativo-imc" target="_blank">Um Aplicativo para medir o IMC do usuário</a> <br>
