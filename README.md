@@ -2,8 +2,6 @@
   <p align = "center"><img align = "center" alt = "HELLO WORLD" height = "200" width = "400" src = "/HELLO WORLD.gif"> </p>
 </div>
 
-###
-
 <div align="center"> 
  <a href = "https://discord.gg/channels/@frontenddeveloper_gabriel" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:bielvalente16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -11,13 +9,13 @@
 </div>
 
 
-<h1 align="left">👩‍💻 ABOUT ME...</h1>
+👩‍💻 ABOUT ME...
 
 My name is Gabriel and I intend to pursue a career as a Front-End Developer. <br>
 Here, I will be developing and publishing my new programming projects!
 
 
-<h1 align = "left">💬 I CODE WITH </h1>
+💬 I CODE WITH
 
 <img align = "center" alt = "HTML" height = "40" width="50" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">​​
 <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">​​
@@ -25,7 +23,7 @@ Here, I will be developing and publishing my new programming projects!
 <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
-<h1 align = "left">🚀✅ DEVELOPED PROJECTS: </h1>
+🚀✅ DEVELOPED PROJECTS
 
  ● HTML | CSS | JavaScript : <br>
 ㅤㅤ-> 🎮👨‍💻 <a href = "https://frontenddeveloper-gabriel.github.io/meu-portfolio/" target="_blank">Meu Portfólio Pessoal</a> <br>
