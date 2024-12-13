@@ -9,9 +9,9 @@
 </div>
 
 
-<h2>👩‍💻 ABOUT ME... </h2>
+<h2> </h2>
 
-###
+👩‍💻 ABOUT ME...
 
 My name is Gabriel and I intend to pursue a career as a Front-End Developer. <br>
 Here, I will be developing and publishing my new programming projects!
