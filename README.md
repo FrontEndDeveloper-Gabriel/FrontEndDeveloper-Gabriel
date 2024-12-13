@@ -9,6 +9,8 @@
 </div>
 
 <br>
+<br>
+<br>
 
 <h2>👩‍💻 ABOUT ME...</h2>
 <p align = left>
@@ -16,6 +18,8 @@ My name is Gabriel and I intend to pursue a career as a Front-End Developer. <br
 Here, I will be developing and publishing my new programming projects!
 </p>
 
+<br>
+<br>
 <br>
 
 <h2>💬🛠 I CODE WITH...</h2>
@@ -26,6 +30,8 @@ Here, I will be developing and publishing my new programming projects!
 <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+<br>
+<br>
 <br>
 
 <h2>🚀✅ DEVELOPED PROJECTS</h2>
