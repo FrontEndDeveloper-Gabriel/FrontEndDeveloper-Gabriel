@@ -1,13 +1,12 @@
 <p align = "center"><img align = "center" alt = "HELLO WORLD" height = "200" width = "400" src = "/HELLO WORLD.gif"> </p>
 
-<p>
 
-<h1 align = "left">👨‍💻 SOBRE MIM: </h1>
- Me chamo Gabriel e pretendo seguir carreira como Desenvolvedor Front-End <br>
- Por aqui estarei desenvolvendo e publicando meus projetos novos de programação!
+<h1 align = "left">👨‍💻 ABOUT ME... </h1>
+My name is Gabriel and I intend to pursue a career as a Front-End Developer. <br>
+Here, I will be developing and publishing my new programming projects!
 
- ### PROJETOS DESENVOLVIDOS ✅
- ● HTML, CSS e JavaScript : <br>
+<h1 align = "left">🚀✅ DEVELOPED PROJECTS: </h1>
+ ● HTML | CSS | JavaScript : <br>
 ㅤㅤ-> 🎮👨‍💻 <a href = "https://frontenddeveloper-gabriel.github.io/meu-portfolio/" target="_blank">Meu Portfólio Pessoal</a> <br>
 ㅤㅤ-> 🏍🚔 <a href = "https://frontenddeveloper-gabriel.github.io/projeto-gta/" target="_blank">Uma página do GTA V </a> <br>
 ㅤㅤ-> 🏴‍☠️🌊 <a href = "https://frontenddeveloper-gabriel.github.io/projeto-onepiece/" target="_blank">Uma página do One Piece</a> <br>
@@ -19,13 +18,13 @@
 ㅤㅤ-> ​📃 <a href = "https://github.com/FrontEndDeveloper-Gabriel/gerador-de-certificados" target="_blank">Um Sistema de Geração de Certificados</a> <br>
 </p>
 
-### LINGUAGENS UTILIZADAS
+<h1 align = "left">💬 I CODE WITH </h1>
 <img align = "center" alt = "HTML" height = "40" width="50" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">​​
 <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">​​
 <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">​​​
 <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">​​
 
-### MEUS LINKS
+<h1 align = "left"> MY LINKS ARE </h1>
 <div> 
  <a href = "https://discord.gg/channels/@frontenddeveloper_gabriel" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:bielvalente16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
