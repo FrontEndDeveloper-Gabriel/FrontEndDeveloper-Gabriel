@@ -10,16 +10,12 @@
   <a href = "https://www.linkedin.com/in/gabrielr-silva2024" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-###
 
 <h1 align="left">👩‍💻 ABOUT ME...</h1>
-
-###
 
 My name is Gabriel and I intend to pursue a career as a Front-End Developer. <br>
 Here, I will be developing and publishing my new programming projects!
 
-###
 
 <h1 align = "left">💬 I CODE WITH </h1>
 
@@ -28,11 +24,8 @@ Here, I will be developing and publishing my new programming projects!
 <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">​​​
 <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-###
 
 <h1 align = "left">🚀✅ DEVELOPED PROJECTS: </h1>
-
-###
 
  ● HTML | CSS | JavaScript : <br>
 ㅤㅤ-> 🎮👨‍💻 <a href = "https://frontenddeveloper-gabriel.github.io/meu-portfolio/" target="_blank">Meu Portfólio Pessoal</a> <br>
@@ -45,5 +38,3 @@ Here, I will be developing and publishing my new programming projects!
 ㅤㅤ-> ​📐 <a href = "https://github.com/FrontEndDeveloper-Gabriel/aplicativo-imc" target="_blank">Um Aplicativo para medir o IMC do usuário</a> <br>
 ㅤㅤ-> ​📃 <a href = "https://github.com/FrontEndDeveloper-Gabriel/gerador-de-certificados" target="_blank">Um Sistema de Geração de Certificados</a> <br>
 </p>
-
-###
