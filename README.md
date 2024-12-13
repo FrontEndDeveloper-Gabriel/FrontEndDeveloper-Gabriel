@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 ABOUT ME...</h3>
+<h1 align="left">👩‍💻 ABOUT ME...</h1>
 
 ###
 
@@ -22,8 +22,6 @@ Here, I will be developing and publishing my new programming projects!
 ###
 
 <h1 align = "left">💬 I CODE WITH </h1>
-
-###
 
 <img align = "center" alt = "HTML" height = "40" width="50" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">​​
 <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">​​
