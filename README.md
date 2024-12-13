@@ -12,7 +12,7 @@
 <br>
 
 <h2>👩‍💻 ABOUT ME...</h2>
-<p align = left>
+<p align = "left">
   My name is Gabriel and I intend to pursue a career as a Front-End Developer. <br>
   Here, I will be developing and publishing my new programming projects!
 </p>
@@ -47,8 +47,8 @@
 <br>
 <br>
 
-<h2> BADGES</h2>
-<div align="left">
+<div align="center">
   <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_python_and_programming_46.png" width = "100" height = "100">
-  <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_python_and_programming_46.png" width = "100" height = "100">
+  <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/data_types,_variables,_and_basic_i/O_47.png" width = "100" height = "100">
+    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/collections,_functions,_and_exceptions_49.png" width = "100" height = "100">
 </div>
