@@ -1,5 +1,7 @@
 <p align = "center"><img align = "center" alt = "HELLO WORLD" height = "200" width = "400" src = "/HELLO WORLD.gif"> </p>
 
+###
+
 ### SOBRE MIM:
 <p>
  Me chamo Gabriel e pretendo seguir carreira como Desenvolvedor Front-End 👨‍💻 <br>
