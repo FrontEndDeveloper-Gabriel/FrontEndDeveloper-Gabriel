@@ -6,7 +6,7 @@
  Por aqui estarei desenvolvendo e publicando meus projetos novos de programação!
 
  ### PROJETOS DESENVOLVIDOS ✅
- ● Websites: <br>
+ ● HTML, CSS e JavaScript : <br>
 ㅤㅤ-> 🎮👨‍💻 <a href = "https://frontenddeveloper-gabriel.github.io/meu-portfolio/" target="_blank">Meu Portfólio Pessoal</a> <br>
 ㅤㅤ-> 🏍🚔 <a href = "https://frontenddeveloper-gabriel.github.io/projeto-gta/" target="_blank">Uma página do GTA V </a> <br>
 ㅤㅤ-> 🏴‍☠️🌊 <a href = "https://frontenddeveloper-gabriel.github.io/projeto-onepiece/" target="_blank">Uma página do One Piece</a> <br>
