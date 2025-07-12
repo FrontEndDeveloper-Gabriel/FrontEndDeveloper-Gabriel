@@ -32,7 +32,7 @@
 <br>
 
 <h2>🚀✅ DEVELOPED PROJECTS</h2>
-<h3> ● HTML | CSS | JavaScript: </h3>
+<h3> ● Web Sites: </h3>
 ㅤㅤ-> 🎮👨‍💻 <a href = "https://frontenddeveloper-gabriel.github.io/meu-portfolio/" target="_blank">Meu Portfólio Pessoal</a> <br>
 ㅤㅤ-> 🏍🚔 <a href = "https://frontenddeveloper-gabriel.github.io/projeto-gta/" target="_blank">Uma página do GTA V </a> <br>
 ㅤㅤ-> 🏴‍☠️🌊 <a href = "https://frontenddeveloper-gabriel.github.io/projeto-onepiece/" target="_blank">Uma página do One Piece</a> <br>
