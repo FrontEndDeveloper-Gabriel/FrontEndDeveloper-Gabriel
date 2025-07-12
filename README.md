@@ -42,6 +42,7 @@
 ㅤㅤ-> ​🏛 <a href = "https://github.com/FrontEndDeveloper-Gabriel/banco-digital" target="_blank">Um Banco Digital</a> <br>
 ㅤㅤ-> ​📐 <a href = "https://github.com/FrontEndDeveloper-Gabriel/aplicativo-imc" target="_blank">Um Aplicativo para medir o IMC do usuário</a> <br>
 ㅤㅤ-> ​📃 <a href = "https://github.com/FrontEndDeveloper-Gabriel/gerador-de-certificados" target="_blank">Um Sistema de Geração de Certificados</a> <br>
+ㅤㅤ-> ​🔍 <a href = "https://github.com/FrontEndDeveloper-Gabriel/analise-de-produtos" target="_blank">Um Código que Extrai e Analisa Dados de 30 Produtos</a> <br>
 </p>
 
 <br>
