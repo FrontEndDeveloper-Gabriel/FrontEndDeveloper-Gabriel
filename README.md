@@ -39,6 +39,7 @@
 ㅤㅤ-> 🏴‍☠️🌊 <a href = "https://frontenddeveloper-gabriel.github.io/projeto-onepiece/" target="_blank">Uma página do One Piece</a> <br>
 ㅤㅤ-> 🏎🚀 <a href = "https://frontenddeveloper-gabriel.github.io/projeto-tesla/" target="_blank">Uma página da Tesla</a> <br>
 ㅤㅤ-> 📲🖥️ <a href = "https://frontenddeveloper-gabriel.github.io/projeto-tesla/" target="_blank">Uma aplicação personalizada</a> <br>
+       <a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/meus-web-sites">Ver Outros</a>
 <h3> ● Python: </h3>
 ㅤㅤ-> 🛒​​ <a href = "https://github.com/FrontEndDeveloper-Gabriel/e-commerce-digital" target="_blank">Uma Loja de Informática E-Commerce</a> <br>
 ㅤㅤ-> ​🏛 <a href = "https://github.com/FrontEndDeveloper-Gabriel/banco-digital" target="_blank">Um Banco Digital</a> <br>
