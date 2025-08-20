@@ -34,7 +34,7 @@
 
 <h2>🚀✅ DEVELOPED PROJECTS</h2>
 <h3> ● Web Sites: </h3>
-       <a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/meus-web-sites">📎My Web Sites</a>
+       📎<a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/meus-web-sites">My Web Sites</a>
 <h3> ● Python: </h3>
 ㅤㅤ-> 🛒​​ <a href = "https://github.com/FrontEndDeveloper-Gabriel/e-commerce-digital" target="_blank">Uma Loja de Informática E-Commerce</a> <br>
 ㅤㅤ-> ​🏛 <a href = "https://github.com/FrontEndDeveloper-Gabriel/banco-digital" target="_blank">Um Banco Digital</a> <br>
