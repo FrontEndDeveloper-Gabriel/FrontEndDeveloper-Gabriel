@@ -45,7 +45,7 @@
 ㅤㅤ-> ​📃 <a href = "https://github.com/FrontEndDeveloper-Gabriel/gerador-de-certificados" target="_blank">Um Sistema de Geração de Certificados</a> <br>
 ㅤㅤ-> ​🔍 <a href = "https://github.com/FrontEndDeveloper-Gabriel/analise-de-produtos" target="_blank">Um Código que Extrai e Analisa Dados de 30 Produtos</a> <br>
 <h3> ● JavaScript: </h3>
-ㅤㅤ-> ​🕒💼 <a href = "https://github.com/FrontEndDeveloper-Gabriel/dev-em-js" target="_blank">Um Código que Calcula Horas Trabalhadas</a> <br>
+ㅤㅤ-> ​🕒💼 <a href = "https://github.com/FrontEndDeveloper-Gabriel/dev-em-js/tree/main/AULA%209/ATIVIDADES/CALCULAR%20HORAS" target="_blank">Um Código que Calcula Horas Trabalhadas</a> <br>
 </p>
 
 <br>
