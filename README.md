@@ -20,13 +20,13 @@
 <br>
 <br>
 
-<h2>💬🛠 I CODE WITH...</h2>
+<h2>🖥️🖱️ I CODE WITH...</h2>
   <div align="left">
   <img align = "center" alt = "HTML" height = "40" width="50" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">​​
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">​​
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">​​​
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img src="https://devicon-website.vercel.app/api/googlecloud/original.svg"></img>
+  <img align="center" alt="Google Cloud Platform" height="40" width="50" src="https://devicon-website.vercel.app/api/googlecloud/original.svg"></img>
 </div>
 
 <br>
