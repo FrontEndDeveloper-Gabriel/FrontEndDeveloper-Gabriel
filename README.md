@@ -34,7 +34,7 @@
 
 <h2>🚀✅ DEVELOPED PROJECTS</h2>
 <h3> ● Web Sites: </h3>
-       📎<a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/meus-web-sites">My Web Sites</a>
+       📎<a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/my-web-sites">My Web Sites</a>
 <h3> ● Python: </h3>
        📎<a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/my-python-codes">My Python Projects</a>
 <h3> ● JavaScript: </h3>
