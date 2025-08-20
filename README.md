@@ -47,7 +47,7 @@
 ㅤㅤ-> ​🔍 <a href = "https://github.com/FrontEndDeveloper-Gabriel/analise-de-produtos" target="_blank">Um código que extrai e analisa dados de 30 produtos</a> <br>
 <h3> ● JavaScript: </h3>
 ㅤㅤ-> ​🕒💼 <a href = "https://github.com/FrontEndDeveloper-Gabriel/dev-em-js/tree/main/AULA%209/ATIVIDADES/CALCULAR%20HORAS" target="_blank">Um código que calcula horas trabalhadas</a> <br>
-ㅤㅤ-> ​📐 <a href = "https://github.com/FrontEndDeveloper-Gabriel/dev-em-js" target="_blank">Um aplicativo para medir o IMC do usuário</a> <br>
+ㅤㅤ-> ​📐 <a href = "https://github.com/FrontEndDeveloper-Gabriel/dev-em-js/blob/main/AULA%208/ATIVIDADES/SISTEMA%20DE%20COMPRAS/programa_de_compras.html" target="_blank">Um sistema de compras</a> <br>
 </p>
 
 <br>
