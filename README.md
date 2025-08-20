@@ -36,11 +36,7 @@
 <h3> ● Web Sites: </h3>
        📎<a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/meus-web-sites">My Web Sites</a>
 <h3> ● Python: </h3>
-ㅤㅤ-> 🛒​​ <a href = "https://github.com/FrontEndDeveloper-Gabriel/e-commerce-digital" target="_blank">Uma Loja de Informática E-Commerce</a> <br>
-ㅤㅤ-> ​🏛 <a href = "https://github.com/FrontEndDeveloper-Gabriel/banco-digital" target="_blank">Um Banco Digital</a> <br>
-ㅤㅤ-> ​📐 <a href = "https://github.com/FrontEndDeveloper-Gabriel/aplicativo-imc" target="_blank">Um aplicativo para medir o IMC do usuário</a> <br>
-ㅤㅤ-> ​📃 <a href = "https://github.com/FrontEndDeveloper-Gabriel/gerador-de-certificados" target="_blank">Um sistema de geração de certificados</a> <br>
-ㅤㅤ-> ​🔍 <a href = "https://github.com/FrontEndDeveloper-Gabriel/analise-de-produtos" target="_blank">Um código que extrai e analisa dados de 30 produtos</a> <br>
+       📎<a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/my-python-codes">My Python Projects</a>
 <h3> ● JavaScript: </h3>
 ㅤㅤ-> ​🕒💼 <a href = "https://github.com/FrontEndDeveloper-Gabriel/dev-em-js/tree/main/AULA%209/ATIVIDADES/CALCULAR%20HORAS" target="_blank">Um código que calcula horas trabalhadas</a> <br>
 ㅤㅤ-> ​💸🛒 <a href = "https://github.com/FrontEndDeveloper-Gabriel/dev-em-js/blob/main/AULA%208/ATIVIDADES/SISTEMA%20DE%20COMPRAS/programa_de_compras.html" target="_blank">Um sistema de compras</a> <br>
