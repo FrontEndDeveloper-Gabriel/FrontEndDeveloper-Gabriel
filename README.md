@@ -38,14 +38,16 @@
 ㅤㅤ-> 🏍🚔 <a href = "https://frontenddeveloper-gabriel.github.io/projeto-gta/" target="_blank">Uma página do GTA V </a> <br>
 ㅤㅤ-> 🏴‍☠️🌊 <a href = "https://frontenddeveloper-gabriel.github.io/projeto-onepiece/" target="_blank">Uma página do One Piece</a> <br>
 ㅤㅤ-> 🏎🚀 <a href = "https://frontenddeveloper-gabriel.github.io/projeto-tesla/" target="_blank">Uma página da Tesla</a> <br>
+ㅤㅤ-> 📲🖥️ <a href = "https://frontenddeveloper-gabriel.github.io/projeto-tesla/" target="_blank">Uma aplicação personalizada</a> <br>
 <h3> ● Python: </h3>
 ㅤㅤ-> 🛒​​ <a href = "https://github.com/FrontEndDeveloper-Gabriel/e-commerce-digital" target="_blank">Uma Loja de Informática E-Commerce</a> <br>
 ㅤㅤ-> ​🏛 <a href = "https://github.com/FrontEndDeveloper-Gabriel/banco-digital" target="_blank">Um Banco Digital</a> <br>
-ㅤㅤ-> ​📐 <a href = "https://github.com/FrontEndDeveloper-Gabriel/aplicativo-imc" target="_blank">Um Aplicativo para medir o IMC do usuário</a> <br>
-ㅤㅤ-> ​📃 <a href = "https://github.com/FrontEndDeveloper-Gabriel/gerador-de-certificados" target="_blank">Um Sistema de Geração de Certificados</a> <br>
-ㅤㅤ-> ​🔍 <a href = "https://github.com/FrontEndDeveloper-Gabriel/analise-de-produtos" target="_blank">Um Código que Extrai e Analisa Dados de 30 Produtos</a> <br>
+ㅤㅤ-> ​📐 <a href = "https://github.com/FrontEndDeveloper-Gabriel/aplicativo-imc" target="_blank">Um aplicativo para medir o IMC do usuário</a> <br>
+ㅤㅤ-> ​📃 <a href = "https://github.com/FrontEndDeveloper-Gabriel/gerador-de-certificados" target="_blank">Um sistema de geração de certificados</a> <br>
+ㅤㅤ-> ​🔍 <a href = "https://github.com/FrontEndDeveloper-Gabriel/analise-de-produtos" target="_blank">Um código que extrai e analisa dados de 30 produtos</a> <br>
 <h3> ● JavaScript: </h3>
-ㅤㅤ-> ​🕒💼 <a href = "https://github.com/FrontEndDeveloper-Gabriel/dev-em-js/tree/main/AULA%209/ATIVIDADES/CALCULAR%20HORAS" target="_blank">Um Código que Calcula Horas Trabalhadas</a> <br>
+ㅤㅤ-> ​🕒💼 <a href = "https://github.com/FrontEndDeveloper-Gabriel/dev-em-js/tree/main/AULA%209/ATIVIDADES/CALCULAR%20HORAS" target="_blank">Um código que calcula horas trabalhadas</a> <br>
+ㅤㅤ-> ​📐 <a href = "https://github.com/FrontEndDeveloper-Gabriel/dev-em-js" target="_blank">Um aplicativo para medir o IMC do usuário</a> <br>
 </p>
 
 <br>
