@@ -33,9 +33,9 @@
 <br>
 
 <h2>🚀✅ DEVELOPED PROJECTS</h2>
-<h3> 📎<a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/my-web-sites">My Web Sites</a> </h3>
-<h3> 📎<a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/my-python-codes">My Python Projects</a> </h3>
-<h3> 📎<a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/my-javascript-codes">My JavaScript Projects</a> </h3>
+<h3> ↗ <a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/my-web-sites">My Web Sites</a> </h3>
+<h3> ↗ <a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/my-python-codes">My Python Projects</a> </h3>
+<h3> ↗ <a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/my-javascript-codes">My JavaScript Projects</a> </h3>
 </p>
 
 <br>
