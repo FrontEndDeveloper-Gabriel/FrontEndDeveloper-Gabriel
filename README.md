@@ -57,7 +57,7 @@
 </div>
 <div align="center">
   <h3> CREDLY BADGES </h3>
-  <table>
+  <table border = "0">
     <tr>
       <td>
         <div align="center">
