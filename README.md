@@ -48,8 +48,8 @@
 
 <div align="center">
   <h3> CREDLY BADGES </h3>
-    <img src="/certificado-profissional-de-suporte-em-ti-do-google.png" width="300" height="300">
-    <img src="/python-essentials-1.1.png" width="200" height="200">
+    <img src="/certificado-profissional-de-suporte-em-ti-do-google.png" width="300" height="300"> <a src = "https://www.credly.com/badges/9a308071-db9d-4df1-8b33-506cc147ab30"></a>
+    <img src="/python-essentials-1.1.png" width="200" height="200"> <a src = "https://www.credly.com/badges/9a308071-db9d-4df1-8b33-506cc147ab30"></a>
 </div>
 
 <br>
