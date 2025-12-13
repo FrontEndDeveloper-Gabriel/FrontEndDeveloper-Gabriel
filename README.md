@@ -57,15 +57,15 @@
 </div>
 <div align="center">
   <h3> CREDLY BADGES </h3>
-  <table border = "0">
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td>
+      <td style="border: none;">
         <div align="center">
           <img src="/certificado-profissional-de-suporte-em-ti-do-google.png" width="300" height="300">
           <h4> Google IT Support </h4>
         </div>
       </td>
-      <td>
+      <td style="border: none;">
         <div align="center">
           <img src="/python-essentials-1.1.png" width="200" height="200">
           <h4> Python Essentials 1 </h4>
