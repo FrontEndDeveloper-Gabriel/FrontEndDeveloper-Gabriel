@@ -51,9 +51,9 @@
 
 <div align="center">
   <h3> NETACAD BADGES</h3>
-  <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_python_and_programming_46.png" width = "100" height = "100">
-  <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/data_types,_variables,_and_basic_i/O_47.png" width = "100" height = "100">
-    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/collections,_functions,_and_exceptions_49.png" width = "100" height = "100">
+   <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_python_and_programming_46.png" width = "100" height = "100">
+   <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/data_types,_variables,_and_basic_i/O_47.png" width = "100" height = "100">
+   <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/collections,_functions,_and_exceptions_49.png" width = "100" height = "100">
   <h3> CREDLY BADGES</h3>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9a308071-db9d-4df1-8b33-506cc147ab30" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <img src>
 </div>
