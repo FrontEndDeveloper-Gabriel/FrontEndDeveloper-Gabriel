@@ -57,8 +57,20 @@
 </div>
 <div align="center">
   <h3> CREDLY BADGES </h3>
-   <img src = "/certificado-profissional-de-suporte-em-ti-do-google.png" width = "300" height = "300">
-   <img src = "/python-essentials-1.1.png" width = "200" height = "200">
-    <h4> Google IT Support </h4>
-    <h4> Python Essentials 1 </h4>
+  <table>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="/certificado-profissional-de-suporte-em-ti-do-google.png" width="300" height="300">
+          <h4> Google IT Support </h4>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <img src="/python-essentials-1.1.png" width="200" height="200">
+          <h4> Python Essentials 1 </h4>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
