@@ -50,10 +50,13 @@
 <br>
 
 <div align="center">
-  <h3> NETACAD BADGES</h3>
+  <h3> NETACAD BADGES </h3>
    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_python_and_programming_46.png" width = "100" height = "100">
    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/data_types,_variables,_and_basic_i/O_47.png" width = "100" height = "100">
    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/collections,_functions,_and_exceptions_49.png" width = "100" height = "100">
-  <h3> CREDLY BADGES</h3>
-  <img src = "/certificado-profissional-de-suporte-em-ti-do-google.png" width = "300" height = "300">
+  <h3> CREDLY BADGES </h3>
+   <img src = "/certificado-profissional-de-suporte-em-ti-do-google.png" width = "300" height = "300">
+    <h4> Google IT Support </h4>
+   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5ac192c2-ec14-4530-9d01-2357c5fd8b88" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <h4> Python Essentials 1 </h4>
 </div>
