@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<h2>👩‍💻 ABOUT ME...</h2>
+<h2>👩‍💻 About me...</h2>
 <p align = "left">
   My name is Gabriel and I intend to pursue a career as a Front-End Developer. <br>
   Here, I will be developing and publishing my new programming projects!
@@ -47,7 +47,6 @@
 [![](https://visitcount.itsvg.in/api?id=FrontEndDeveloper-Gabriel&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <br>
-<br>
 
 <div align="center">
   <h3> NETACAD BADGES </h3>
@@ -57,20 +56,6 @@
 </div>
 <div align="center">
   <h3> CREDLY BADGES </h3>
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <td style="border: none;">
-        <div align="center">
-          <img src="/certificado-profissional-de-suporte-em-ti-do-google.png" width="300" height="300">
-          <h4> Google IT Support </h4>
-        </div>
-      </td>
-      <td style="border: none;">
-        <div align="center">
-          <img src="/python-essentials-1.1.png" width="200" height="200">
-          <h4> Python Essentials 1 </h4>
-        </div>
-      </td>
-    </tr>
-  </table>
+    <img src="/certificado-profissional-de-suporte-em-ti-do-google.png" width="300" height="300">
+    <img src="/python-essentials-1.1.png" width="200" height="200">
 </div>
