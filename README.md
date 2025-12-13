@@ -47,16 +47,10 @@
 [![](https://visitcount.itsvg.in/api?id=FrontEndDeveloper-Gabriel&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <h3> NETACAD BADGES </h3>
+  <h3> MY BADGES </h3>
    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_python_and_programming_46.png" width = "100" height = "100">
    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/data_types,_variables,_and_basic_i/O_47.png" width = "100" height = "100">
    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/collections,_functions,_and_exceptions_49.png" width = "100" height = "100">
-</div>
-
-<br>
-
-<div align="center">
-  <h3> CREDLY BADGES </h3>
-    <img src="/certificado-profissional-de-suporte-em-ti-do-google.png" width="300" height="300">
-    <img src="/python-essentials-1.1.png" width="200" height="200">
+   <img src="/certificado-profissional-de-suporte-em-ti-do-google.png" width="300" height="300">
+   <img src="/python-essentials-1.1.png" width="200" height="200">
 </div>
