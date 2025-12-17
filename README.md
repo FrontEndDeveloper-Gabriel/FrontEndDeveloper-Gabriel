@@ -49,14 +49,15 @@
 <div align="center">
   <h3> CREDLY BADGES </h3>
     <a src = "https://www.credly.com/badges/9a308071-db9d-4df1-8b33-506cc147ab30"><img src="/certificado-profissional-de-suporte-em-ti-do-google.png" width="300" height="300"></a>
-    <a src = "https://www.credly.com/badges/9a308071-db9d-4df1-8b33-506cc147ab30"><img src="/python-essentials-1.1.png" width="200" height="200"></a>
 </div>
 
 <br>
 
 <div align="center">
   <h3> NETACAD BADGES </h3>
+   <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/control_flow_and_lists_48.png" width = "100" height = "100">
    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_python_and_programming_46.png" width = "100" height = "100">
+    <a src = "https://www.credly.com/badges/9a308071-db9d-4df1-8b33-506cc147ab30"><img src="/python-essentials-1.1.png" width="200" height="200"></a>
    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/data_types,_variables,_and_basic_i/O_47.png" width = "100" height = "100">
    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/collections,_functions,_and_exceptions_49.png" width = "100" height = "100">
 </div>
