@@ -1,6 +1,5 @@
 <div align="center">
-  <a href="https://fontmeme.com/undertale-logo-font/"><img src="https://fontmeme.com/permalink/251228/b6258dcf817fe8309e7ad05b0f7ee5bd.png" alt="undertale-logo-font" border="0"></a>
-  <a href="https://fontmeme.com/fonts/deltarune-font/"><img src="https://fontmeme.com/permalink/251228/d99366f71a7ba54d8d5256c0a509c6b0.png" alt="deltarune-font" border="0"></a>
+  <img src="/intro.gif">
 </div>
 
 <div align="center"> 
