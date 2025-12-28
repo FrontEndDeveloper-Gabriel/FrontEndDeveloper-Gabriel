@@ -1,5 +1,5 @@
 <div align = "center">
-  <img src = "/intro.gif" width = "500" height = "500">
+  <img src = "/intro.gif" width = "700" height = "700">
 </div>
 
 <div align = "center"> 
