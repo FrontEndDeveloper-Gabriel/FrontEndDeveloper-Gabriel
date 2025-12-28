@@ -1,5 +1,6 @@
 <div align="center">
   <a href="https://fontmeme.com/undertale-logo-font/"><img src="https://fontmeme.com/permalink/251228/b6258dcf817fe8309e7ad05b0f7ee5bd.png" alt="undertale-logo-font" border="0"></a>
+  <a href="https://fontmeme.com/fonts/deltarune-font/"><img src="https://fontmeme.com/permalink/251228/d99366f71a7ba54d8d5256c0a509c6b0.png" alt="deltarune-font" border="0"></a>
 </div>
 
 <div align="center"> 
@@ -20,7 +21,7 @@
 <br>
 <br>
 
-<h2>🚀✅ DEVELOPED PROJECTS</h2>
+<h2>🚀✅ Developed Projects</h2>
 <h3> ↗ <a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/my-web-sites">My Web Sites</a> </h3>
 <h3> ↗ <a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/my-python-codes">My Python Projects</a> </h3>
 <h3> ↗ <a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/my-javascript-codes">My JavaScript Projects</a> </h3>
@@ -29,7 +30,7 @@
 <br>
 <br>
 
-# 💻🖱 MY TOOLS...
+# 💻🖱 My Tools...
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=plastic&logo=Ionic&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 
 <br>
@@ -47,7 +48,7 @@
 [![](https://visitcount.itsvg.in/api?id=FrontEndDeveloper-Gabriel&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <h3> CREDLY AND NETACAD BADGES </h3>
+  <h3> Credly And Netacad Badges </h3>
     <a src = "https://www.credly.com/badges/9a308071-db9d-4df1-8b33-506cc147ab30"><img src="/certificado-profissional-de-suporte-em-ti-do-google.png" width="300" height="300"></a>
     <a src = "https://www.credly.com/badges/9a308071-db9d-4df1-8b33-506cc147ab30"><img src="/python-essentials-1.1.png" width="200" height="200"></a>
 </div>
