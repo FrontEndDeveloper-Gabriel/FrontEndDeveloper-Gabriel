@@ -1,5 +1,5 @@
 <div align="center">
-  <p align = "center"><img align = "center" alt = "HELLO WORLD" height = "200" width = "400" src = "/HELLO WORLD.gif"> </p>
+  <a href="https://fontmeme.com/undertale-logo-font/"><img src="https://fontmeme.com/permalink/251228/b6258dcf817fe8309e7ad05b0f7ee5bd.png" alt="undertale-logo-font" border="0"></a>
 </div>
 
 <div align="center"> 
