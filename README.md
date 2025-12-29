@@ -2,7 +2,11 @@
   <img src = "/intro.gif" width = "600" height = "600">
 </div>
 
-<div align = "center"> 
+<br>
+<br>
+
+<div align = "center">
+  # My Links...
  <a href = "https://discord.gg/channels/@frontenddeveloper_gabriel" target="_blank"><img src="/discord-8bit.png" width = "70" height = "70" target="_blank"></a> 
   <a href = "mailto:bielvalente16@gmail.com"><img src="gmail-8bit.png" width = "70" height = "70" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/gabrielr-silva2024" target="_blank"><img src="linkedin-8bit.png" width = "70" height = "70" target="_blank"></a>
@@ -11,7 +15,7 @@
 <br>
 <br>
 
-<h2>👩‍💻 About me...</h2>
+# 👩‍💻 About Me...
 <p align = "left">
   My name is Gabriel and I intend to pursue a career as a Front-End Developer. <br>
   Here, I will be developing and publishing my new programming projects!
@@ -20,7 +24,7 @@
 <br>
 <br>
 
-<h2>🚀✅ Developed Projects</h2>
+# 🚀✅ Developed Projects
 <h3> ↗ <a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/my-web-sites">My Web Sites</a> </h3>
 <h3> ↗ <a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/my-python-codes">My Python Projects</a> </h3>
 <h3> ↗ <a href="https://github.com/stars/FrontEndDeveloper-Gabriel/lists/my-javascript-codes">My JavaScript Projects</a> </h3>
