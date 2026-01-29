@@ -7,9 +7,9 @@
 
 # My Links...
  <div align = "center">
-  <a href = "https://discord.gg/channels/@frontenddeveloper_gabriel" target="_blank"><img src="/discord-8bit.png" width = "70" height = "70" target="_blank"></a> 
-   <a href = "mailto:bielvalente16@gmail.com"><img src="gmail-8bit.png" width = "70" height = "70" target="_blank"></a>
-   <a href = "https://www.linkedin.com/in/gabrielr-silva2026" target="_blank"><img src="linkedin-8bit.png" width = "70" height = "70" target="_blank"></a>
+  <a href = "https://discord.gg/channels/@frontenddeveloper_gabriel" target="_blank"><img src="/discord-8bit.png" width = "100" height = "100" target="_blank"></a> 
+   <a href = "mailto:bielvalente16@gmail.com"><img src="gmail-8bit.png" width = "100" height = "100" target="_blank"></a>
+   <a href = "https://www.linkedin.com/in/gabrielr-silva2026" target="_blank"><img src="linkedin-8bit.png" width = "100" height = "100" target="_blank"></a>
  </div>
 
 <br>
