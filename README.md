@@ -44,11 +44,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=FrontEndDeveloper-Gabriel&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndDeveloper-Gabriel&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FrontEndDeveloper-Gabriel&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=FrontEndDeveloper-Gabriel&icon=5&color=0)](https://visitcount.itsvg.in)
 
 # My Badges
  <div align="center">
